@@ -1,6 +1,14 @@
 # This is the repo for UDE Taller 2
 
 <img width="1600" height="900" alt="01" src="https://github.com/user-attachments/assets/29e0f466-fcde-464b-9915-4db2093e17cb" />
+
+
+https://github.com/user-attachments/assets/5b535fd3-ade9-4db6-84b5-7e7fa20d10f6
+
+
+
+https://github.com/user-attachments/assets/c9458397-8d83-4afa-95de-87efe86a71f4
+
 ![ec05717a-4edf-4b90-8dea-e1b8b5c3340d](https://github.com/user-attachments/assets/045b716d-688d-4d16-8706-fa8149f78b1d)
 ![e89061b5-8aab-4369-a67a-1863e828922c](https://github.com/user-attachments/assets/42c7e298-7224-4a31-bba3-0029103c37fd)
 ![b9115a06-d4ea-4119-be34-83fa3d21dd2d](https://github.com/user-attachments/assets/2008b602-7658-4cf0-94bf-8e3faf7fc6b9)
@@ -16,11 +24,3 @@
 ![19bf68eb-ff88-430a-b4cf-78bd4d951684](https://github.com/user-attachments/assets/449691ea-58f4-443f-a508-af63ad6b96f3)
 ![9adffd30-6aa0-4881-988c-5073e5471b35](https://github.com/user-attachments/assets/f015c9de-cd88-46de-8865-4db8cc57c827)
 ![5f3d17b1-7f21-4a27-abbe-aa311d88506b](https://github.com/user-attachments/assets/d830cc4a-f742-48f1-9482-877993478bd3)
-
-
-https://github.com/user-attachments/assets/5b535fd3-ade9-4db6-84b5-7e7fa20d10f6
-
-
-
-https://github.com/user-attachments/assets/c9458397-8d83-4afa-95de-87efe86a71f4
-
